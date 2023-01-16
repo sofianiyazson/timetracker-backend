@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "taskName": "typicode2",
+      "color": "#9a3232",
+      "date": "2022-10-21"
+    },
+    {
+      "id": 3,
+      "taskName": "typicode2",
+      "color": "#9a3232",
+      "date": "2022-10-21"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 2,
+      "projectName": "projectZZ22222222",
+      "taskName": "taskZZ",
+      "color": "#2be0f7",
+      "date": "2022-10-20",
+      "time": "00:20:00"
+    },
+    {
+      "id": 3,
+      "projectName": "projectZZ",
+      "taskName": "taskZZ",
+      "color": "#2be0f7",
+      "date": "2022-10-20",
+      "time": "00:20:00"
+    },
+    {
+      "id": 4,
+      "projectName": "projectZZ",
+      "taskName": "taskZZ",
+      "color": "#2be0f7",
+      "date": "2022-10-20",
+      "time": "00:20:00"
+    }
+  ]
+}
